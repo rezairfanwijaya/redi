@@ -9,6 +9,7 @@ function App() {
       <div className="home font-Inter">
         <Navbar />
         <Greeting/>
+        <Theme/>
       </div>
     </>
   );
